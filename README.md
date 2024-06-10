@@ -1,7 +1,3 @@
-Sure, here is the README in Markdown syntax for GitHub:
-
----
-
 # Bifurcation Analysis in Dynamical Systems
 
 ## Overview
