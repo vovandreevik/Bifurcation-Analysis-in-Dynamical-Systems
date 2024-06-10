@@ -1,0 +1,1 @@
+# Bifurcation-Analysis-in-Dynamical-Systems
